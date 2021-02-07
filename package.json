@@ -27,6 +27,7 @@
   },
   "private": true,
   "dependencies": {
+    "@tinymce/tinymce-react": "^3.10.1",
     "core-js": "^3.6.5",
     "document-register-element": "1.13.1",
     "next": "10.0.1",

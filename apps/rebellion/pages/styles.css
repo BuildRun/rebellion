@@ -1,8 +1,15 @@
+body {
+  margin: 0px;
+}
+
 .app {
   font-family: sans-serif;
+  margin: 0px auto;
+}
+
+.fullWidth {
   min-width: 300px;
-  max-width: 600px;
-  margin: 50px auto;
+  max-width: 1920px;
 }
 
 .app .gutter-left {
